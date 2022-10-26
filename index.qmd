@@ -1,5 +1,7 @@
 ---
 title: "coryVkeith.github.io"
+about:
+    template: jolla
 ---
 
 This is a Quarto website.
