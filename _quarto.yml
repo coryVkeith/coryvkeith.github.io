@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Cory Von Keith"
-  about:
-    template: jolla
+  description: "Personal website"
+  site-url: https://cvk.com
+  repo-url: https://github.com/coryVkeith/coryvkeith.github.io
   navbar:
     left:
       - href: index.qmd
