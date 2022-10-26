@@ -4,6 +4,26 @@ about:
     template: jolla
 ---
 
-This is a Quarto website.
+Explanation of my website goes here.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+
+
+{{< pagebreak >}}
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="https://github.com/coryvkeith" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?hl=en&user=lMC4RWEAAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/cory-keith-2b136a126/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
+</a>
+```
+:::
