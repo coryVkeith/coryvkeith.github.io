@@ -5,7 +5,7 @@ project:
 website:
   title: "Cory Von Keith"
   description: "Personal website"
-  site-url: https://cvk.com
+  
   repo-url: https://github.com/coryVkeith/coryvkeith.github.io
   navbar:
     left:
