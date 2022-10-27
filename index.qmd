@@ -19,11 +19,20 @@ Explanation of my website goes here.
 </a>
 
 <a class="btn btn-outline-dark", href="https://scholar.google.com/citations?hl=en&user=lMC4RWEAAAAJ" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-google-scholar-square ai-3x" role='img' aria-label='Google Scholar'></i>
+    <i class="bi bi-google-scholar' aria-label='Google Scholar'></i>
 </a>
 
 <a class="btn btn-outline-dark", href="https://www.linkedin.com/in/cory-keith-2b136a126/" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
 </a>
+
+<a class="btn btn-outline-dark", href="mailto:coryvonkeith@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://orcid.org/my-orcid?orcid=0000-0002-7111-3497" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-orcid" role='img' aria-label='orcid'></i>
+</a>
+
 ```
 :::
