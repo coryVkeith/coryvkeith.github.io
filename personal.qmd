@@ -13,7 +13,7 @@ format:
 
 ::: columns
 ::: {.column width="60%"}
-I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems that includes sustainable approaches.
+I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems through sustainable approaches.
 :::
 
 
@@ -24,7 +24,7 @@ I grew up on a ranch in rural Missouri, where I developed an appreciation for na
 
 ::: columns
 ::: {.column width="60%"}
-![](img/cow.jpeg) {height="300px" fig-align="right"}
+![](img/cow.jpeg){height="300px" fig-align="right"}
 :::
 :::
 
