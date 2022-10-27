@@ -2,6 +2,20 @@
 title: "coryVkeith.github.io"
 about:
     template: jolla
+    links:
+    - text: "Google Scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=lMC4RWEAAAAJ"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/coryvkeith"
+    - text: OrcID
+      icon: orcid
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-7111-3497"
+    - text: Email
+      url: "mailto:coryvonkeith@gmail.com"
+    - text: LinkedIN
+      icon: linkedin
+      url: "https://www.linkedin.com/in/cory-keith-2b136a126/"
 ---
 
 Explanation of my website goes here.
@@ -10,29 +24,8 @@ Explanation of my website goes here.
 
 
 
-{{< pagebreak >}}
 
-::: {.column-page-inset .text-center}
-```{=html}
-<a class="btn btn-outline-dark", href="https://github.com/coryvkeith" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role='img' aria-label='Github'></i>
-</a>
 
-<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?hl=en&user=lMC4RWEAAAAJ" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-google-scholar' aria-label='Google Scholar'></i>
-</a>
 
-<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/cory-keith-2b136a126/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
-</a>
 
-<a class="btn btn-outline-dark", href="mailto:coryvonkeith@gmail.com" target="_blank" rel="noopener noreferrer">
-    <i class="ai bi-envelope" role='img' aria-label='email'></i>
-</a>
 
-<a class="btn btn-outline-dark", href="https://orcid.org/my-orcid?orcid=0000-0002-7111-3497" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-orcid" role='img' aria-label='orcid'></i>
-</a>
-
-```
-:::
