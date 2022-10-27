@@ -4,6 +4,7 @@ about:
     template: jolla
     links:
     - text: "Google Scholar"
+      icon: google
       url: "https://scholar.google.com/citations?hl=en&user=lMC4RWEAAAAJ"
     - text: GitHub
       icon: github
@@ -13,7 +14,7 @@ about:
       url: "https://orcid.org/my-orcid?orcid=0000-0002-7111-3497"
     - text: Email
       url: "mailto:coryvonkeith@gmail.com"
-    - text: LinkedIN
+    - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/cory-keith-2b136a126/"
 ---
