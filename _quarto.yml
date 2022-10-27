@@ -5,7 +5,7 @@ project:
 website:
   title: "Cory Von Keith"
   description: "Personal website"
-  
+  site-url: https://coryvkeith.github.io
   repo-url: https://github.com/coryVkeith/coryvkeith.github.io
   navbar:
     left:
@@ -21,6 +21,8 @@ format:
     theme: cyborg
     css: styles.css
     toc: true
+    
+editor: visual
 
 
 
