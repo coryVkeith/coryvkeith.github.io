@@ -17,7 +17,7 @@ I grew up on a ranch in rural Missouri, where I developed an appreciation for na
 :::
 
 
-::: {column width="40%"}
+::: {.column width="40%"}
 ![](img/farm.jpeg){height=300px}
 :::
 :::
