@@ -3,7 +3,7 @@ title: "coryVkeith.github.io"
 about:
     template: jolla
     links:
-    - text: "Google Scholar"
+    - text: Scholar
       icon: google
       url: "https://scholar.google.com/citations?hl=en&user=lMC4RWEAAAAJ"
     - text: GitHub
@@ -12,10 +12,9 @@ about:
     - text: OrcID
       icon: orcid
       url: "https://orcid.org/my-orcid?orcid=0000-0002-7111-3497"
-    - text: Email
+    - icon: envelope
       url: "mailto:coryvonkeith@gmail.com"
-    - text: LinkedIn
-      icon: linkedin
+    - icon: linkedin
       url: "https://www.linkedin.com/in/cory-keith-2b136a126/"
 ---
 
