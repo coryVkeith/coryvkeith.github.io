@@ -1,0 +1,25 @@
+---
+title: "Personal Interests"
+format:
+  html:
+    toc: true
+    toc-title: "Contents"
+    toc-location: left
+    toc-depth: 4
+---
+
+### Childhood 
+::: {.d-flex .justify-content-between}
+::: {}
+I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems that includes sustainable approaches.
+:::
+::: {.text-end}
+:::
+:::
+
+### Outdoors
+
+
+### Travel
+
+
