@@ -5,7 +5,7 @@ format:
     toc: true
     toc-title: "Contents"
     toc-location: left
-    toc-depth: 4
+    page-layout: full
 ---
 
 ### Childhood 
