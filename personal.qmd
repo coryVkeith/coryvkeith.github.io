@@ -8,22 +8,24 @@ format:
     page-layout: full
 ---
 
+
 ### Childhood 
 
 
 ::: columns
 ::: {.column width="60%"}
 I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems through sustainable approaches.
+
+I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems through sustainable approaches.
+
+I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems through sustainable approaches.
+
 :::
 
 
 ::: {.column width="40%"}
-![](img/farm.jpeg){height=300px}
-:::
-:::
+![](img/farm.jpeg){height="300px"}
 
-::: columns
-::: {.column width="60%"}
 ![](img/cow.jpeg){height="300px" fig-align="right"}
 :::
 :::
@@ -31,32 +33,63 @@ I grew up on a ranch in rural Missouri, where I developed an appreciation for na
 ### Outdoors
 
 ::: columns
-::: {.column width="60%"}
+::: {.column width="100%"}
 I prefer to spend my free time in the great outdoors participating in any activity that allows me to fully experience the moment.
 :::
 
-::: {.column width="40%"}
-![](img/river.jpeg){height=300px}
-:::
-:::
 
-::: columns
-::: {.column width="60%"}
-![](img/rock.jpeg){height="300px" fig-align="right"}
 :::
+::: {#fig-outdoors layout-ncol=3}
 
-::: {.column width="20%"}
-![](img/backpack.jpeg){height="300px" width="300px" fig-align="right"}
-:::
-:::
+![Backpacking](img/backpack.jpeg){height="300px"}
 
+![Kayaking](img/river.jpeg)
+
+![Rock Climbing](img/rock.jpeg)
+
+A few choice activities
+:::
 
 
 
 ### Travel
 
+
+::: columns
+::: {.column width="100%"}
+There is so much diversity of perspectives and cultures in the world. It would be a shame to not appreciate all the world has to offer.
+:::
+
+:::
+::: {#fig-outdoors layout-ncol=2}
+
+![San Xavier Mission](img/mission.jpeg){height="300px"}
+
+![Old San Juan](img/street.jpeg){height="300px"}
+
+People and Places
+:::
+
+
 ### Life Partner
 
+::: columns
+::: {.column width="100%"}
+My boo is a no good stretched out panty waist.
+:::
 
 
+:::
+::: {#fig-outdoors layout-ncol=3}
 
+![Big Sur and Big Cheese](img/beach.jpeg){height="300px"}
+
+![These are a few of my favorite things](img/seakayak.jpeg){height="300px"}
+
+![The hills are alive](img/montana.jpeg){height="300px"}
+
+She makes me a better person
+:::
+
+:::
+:::

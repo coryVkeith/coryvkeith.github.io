@@ -13,7 +13,7 @@ about:
     - icon: linkedin
       url: "https://www.linkedin.com/in/cory-keith-2b136a126/"
     - text: OrcID
-      icon: orcid
+      icon: img/orcid.svg
       url: "https://orcid.org/my-orcid?orcid=0000-0002-7111-3497"
 ---
 
