@@ -31,7 +31,7 @@ Explanation of my website goes here.
 </a>
 
 <a class="btn btn-outline-dark", href="https://orcid.org/my-orcid?orcid=0000-0002-7111-3497" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-orcid" role='img' aria-label='orcid'></i>
+    <i class="ai ai-orcid" role='img' aria-label='orcid'></i>
 </a>
 
 ```
