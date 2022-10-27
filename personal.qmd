@@ -43,14 +43,12 @@ I prefer to spend my free time in the great outdoors participating in any activi
 ::: columns
 ::: {.column width="60%"}
 ![](img/rock.jpeg){height="300px" fig-align="right"}
+::: {.column width="20%"}
+![](img/backpack.jpeg){height="300px" width="300px" fig-align="right"}
 :::
 :::
 
-::: columns
-::: {.column width="20%"}
-![](img/backpack.jpeg){height="300px" fig-align="right"}
-:::
-:::
+
 
 
 ### Travel
