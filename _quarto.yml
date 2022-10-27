@@ -10,8 +10,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: personal.qmd
+        text: "Personal Interests"
 
 format:
   html:
