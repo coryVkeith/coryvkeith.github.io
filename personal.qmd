@@ -30,6 +30,28 @@ I grew up on a ranch in rural Missouri, where I developed an appreciation for na
 
 ### Outdoors
 
+::: columns
+::: {.column width="60%"}
+I prefer to spend my free time in the great outdoors participating in any activity that allows me to fully experience the moment.
+:::
+
+::: {.column width="40%"}
+![](img/river.jpeg){height=300px}
+:::
+:::
+
+::: columns
+::: {.column width="60%"}
+![](img/rock.jpeg){height="300px" fig-align="right"}
+:::
+:::
+
+::: columns
+::: {.column width="20%"}
+![](img/backpack.jpeg){height="300px" fig-align="right"}
+:::
+:::
+
 
 ### Travel
 
