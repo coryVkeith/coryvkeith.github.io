@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Bioinformatics\n\n\nwhy i know bioinformatics"
+    "text": "Bioinformatics\n\n\nTechniques:\nCoding Languages: Python, Bash, and R\nComputing: Local computing with GUI’s, cloud computing with XSEDE and JETstream2, remote High performance computing on university hardware\nOther random skills: Docker containers and singularity, large data management,\nGenome assembly software: SPAdes, bowtie, bowtie2, and BWA\nMultiple sequence alignment software: MEGA, CD-HIT, MAUVE, MAFFT, MEGAN, SDT, CLUSTALW, MUSCLE\nPhylogenetics:"
   },
   {
     "objectID": "index.html",
