@@ -13,28 +13,27 @@ format:
 
 
 ::: columns
-::: {.column width="60%"}
-I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems through sustainable approaches.
-
-I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems through sustainable approaches.
-
+::: {.column width="100%"}
 I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems through sustainable approaches.
 
 :::
 
 
-::: {.column width="40%"}
-![](img/farm.jpeg){height="300px"}
+:::
+::: {#fig-outdoors layout-ncol=3}
+![Sunrise in spring](img/farm.jpeg){height="300px"}
 
-![](img/cow.jpeg){height="300px" fig-align="right"}
+![Babysitting the neighborhood kids](img/cow.jpeg){height="300px" fig-align="right"}
+
+The family  farm
 :::
-:::
+
 
 ### Outdoors
 
 ::: columns
 ::: {.column width="100%"}
-I prefer to spend my free time in the great outdoors participating in any activity that allows me to fully experience the moment.
+I prefer to spend my free time in the great outdoors participating in any activity that allows me to fully experience the moment. I am passionate about protecting our wild spaces so that future generations and peoples can experience the same thrilling moments that I am privileged to enjoy.
 :::
 
 
@@ -75,7 +74,7 @@ People and Places
 
 ::: columns
 ::: {.column width="100%"}
-My boo is a no good stretched out panty waist.
+I am lucky to have stumbled into the life of Lauren Thompson, an accomplished biostatistician who works with fortifying staple foods with nutrients to help alleviate global malnutrition.
 :::
 
 
@@ -88,6 +87,6 @@ My boo is a no good stretched out panty waist.
 
 ![The hills are alive](img/montana.jpeg){height="300px"}
 
-She makes me a better person
+The one, the only, Lauren Thompson.
 :::
 

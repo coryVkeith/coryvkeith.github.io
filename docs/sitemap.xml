@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://coryvkeith.github.io/research.html</loc>
+    <lastmod>2022-11-02T02:50:57.291Z</lastmod>
+  </url>
+  <url>
     <loc>https://coryvkeith.github.io/index.html</loc>
-    <lastmod>2022-10-27T21:57:10.766Z</lastmod>
+    <lastmod>2022-11-02T02:50:57.588Z</lastmod>
   </url>
   <url>
     <loc>https://coryvkeith.github.io/about.html</loc>
-    <lastmod>2022-10-27T21:57:11.055Z</lastmod>
+    <lastmod>2022-11-02T02:50:57.888Z</lastmod>
   </url>
   <url>
     <loc>https://coryvkeith.github.io/personal.html</loc>
-    <lastmod>2022-10-27T21:57:11.385Z</lastmod>
+    <lastmod>2022-11-02T02:50:58.197Z</lastmod>
   </url>
 </urlset>

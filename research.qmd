@@ -1,0 +1,28 @@
+---
+title: "Research"
+format:
+  html:
+    toc: true
+    toc-title: "Contents"
+    toc-location: left
+    page-layout: full
+---
+
+### Molecular Biology
+
+::: columns
+::: {.column width="60%"}
+Techniques:
+ Cloning: Restriction cloning, Gateway Cloning, Gibson Cloning
+ 
+:::
+:::
+
+
+### Bioinformatics
+
+::: columns
+::: {.column width="60%"}
+why i know bioinformatics
+:::
+:::
