@@ -8,6 +8,9 @@ format:
     page-layout: full
 ---
 
+Science does not occur in a vacuum. I have had the opportunity to collaborate and work with many researchers from many cultures and disciplines. Because of this, I have picked up a plethora of skills for my toolbox. 
+
+
 ### Molecular Biology Techniques:
 
 ::: columns
@@ -21,9 +24,15 @@ format:
  
  Stable Transformation Organisms: *E. coli*, *A. tumefaciens*, *P. syringae*, *A. thaliana*, *G. hirsutum*
  
- Transient Transformation Organisms: *N. benthamiana*, *A. thaliana*, *E. coli*, *A. tumefaciens*
+ Transient Transformation Organisms: *N. benthamiana*, *A. thaliana*, *E. coli*, *A. tumefaciens*, *T. cacao*, *V. vinifera*, *Piper spp.*, and *G. hirsutum*
  
  Gene/Genome editing/engineering: Cas9 and Cas12a, transposon mutagenesis, T-DNA insertions, site directed mutagenesis
+ 
+ Sequencing: Sanger, Nanopore, and Illumina
+ 
+ Synthetic biology: Desgin gene regulatory networks, amiRNA design, design of RNAi for disease resistance, Cas9 and Cas12a plant virus resistance, GFP tagging
+ 
+ Microscopy: Widefield, fluorescence, and confocal
 :::
 :::
 
@@ -37,15 +46,20 @@ Coding Languages: Python, Bash, and R
 
 Computing: Local computing with GUI's, cloud computing with XSEDE and JETstream2, and remote High performance computing 
 
-Other relevant skills: Docker containers and singularity, large data management, automation of pipelines and processes, protocols.io, dedication to reproducibility and open science 
 
-Genome assembly software: SPAdes, bowtie, bowtie2, and BWA
+Genome assembly software: SPAdes, bowtie, bowtie2, Trinity, and BWA
 
 Multiple sequence alignment software: MEGA, CD-HIT, MAUVE, MAFFT, MEGAN, SDT, CLUSTALW, MUSCLE
 
 Phylogenetics: RaXML, PHYLIP, BEAST, Mr. Bayes, MEGA, Geneious, and PhyML
 
-Sequence Annotation: 
+Sequence identification and annotation: BLAST, ORF finder, Geneious
+
+Community Ecology: Phyloseq, Qiime
+
+Other relevant skills: Docker containers and singularity, large data management, automation of pipelines and processes, protocols.io, dedication to reproducibility and open science 
+
+
 
 :::
 :::
