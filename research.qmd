@@ -10,6 +10,42 @@ format:
 
 Science does not occur in a vacuum. I have had the opportunity to collaborate and work with many researchers from many cultures and disciplines. Because of this, I have picked up a plethora of skills for my toolbox.
 
+### Virus Bioreporters *in planta*
+
+::: columns
+::: {.column width="60%"}
+Part of my passion project for my dissertation is to come up with new techniques that can be adopted in cropping systems to increase the efficiency of production. This led me to design and develop a virus bioreporter in plants that can signal a broad range of viruses to technicians. The proof of concept is currently being developed in *A. thaliana* with funding from the NSF by way of the Center for Research on Programmable Plants Systems (CROPPS).
+
+![GFP tagged nuclei in root](img/gfp_root.png){width="300"}
+
+Currently this bioreporter can signal which cells are infected with a plant virus from many viral taxa, but it will be deployed as a rapid virus bioreporter to signal to farmers that viruses are in the fields, potentially impacting their yields.
+:::
+:::
+
+### Transgenic viral resistance *in planta*
+
+::: columns
+::: {.column width="60%"}
+Viruses can't be treated with agrochemicals because they carry out their processes inside plant cells. This means that their insect vectors (transmission agents) are often targeted through agrochemicals. This can be harmful to a number of organisms in the environment, such as pollinators. I have worked on transgenic strategies to target the virus pathogens within the plant cells such as RNAi and CRISPR.
+
+![Cas12a vector targeting CLCuD](img/untitled.png){width="300"}
+
+These strategies, however, put a strong selective pressure on virus populations, which evolve to break these transgenic resistances. This resistance breaking can happen within 3 years, and can negate all of the hard work that went in to engineering plants to be resitant to the viruses. In light of this, I am working on two concepts that will use techniques of synthetic regulatory networks in plants to build new, robust, transgenic resistance in plants.
+:::
+:::
+
+### Virus surveillance
+
+::: columns 
+::: {.column width="60%"}
+As researchers, breeders, and farmers try to introduce new resistant plant cultivars, plant viral populations and communities can shift in the new environment of resistance. This selection can have a signature in virus communities that can be detected. I have been working on developing automated pipelines as part of a high-throughput surveillance tool that can help aid breeders and researchers in how virus communities and populations are shifting in the environment. Check out the repo for the tool I developed here: [ViCAT](https://github.com/coryVkeith/ViCAT_dev)!
+
+![Community compositions of CLCuD in Pakistan](img/NMDS_map.png){width="584"}
+
+
+:::
+:::
+
 ### Molecular Biology Techniques:
 
 ::: columns
