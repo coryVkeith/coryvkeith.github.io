@@ -8,26 +8,21 @@ format:
     page-layout: full
 ---
 
-
-### Childhood 
-
+### Childhood
 
 ::: columns
 ::: {.column width="100%"}
 I grew up on a ranch in rural Missouri, where I developed an appreciation for nature and farming. This setting inspired me to help reduce agriculture's impact on the environment by helping to increase the efficiency of agricultural systems through sustainable approaches.
-
+:::
 :::
 
+::: {#fig-outdoors layout-ncol="3"}
+![Sunrise in spring](img/farm.jpeg){width="300"}
 
+![Babysitting the neighborhood kids](img/cow.jpeg){fig-align="right" width="300"}
+
+The family farm
 :::
-::: {#fig-outdoors layout-ncol=3}
-![Sunrise in spring](img/farm.jpeg){height="300px"}
-
-![Babysitting the neighborhood kids](img/cow.jpeg){height="300px" fig-align="right"}
-
-The family  farm
-:::
-
 
 ### Outdoors
 
@@ -35,58 +30,48 @@ The family  farm
 ::: {.column width="100%"}
 I prefer to spend my free time in the great outdoors participating in any activity that allows me to fully experience the moment. I am passionate about protecting our wild spaces so that future generations and peoples can experience the same thrilling moments that I am privileged to enjoy.
 :::
-
-
 :::
-::: {#fig-outdoors layout-ncol=3}
 
-![Backpacking](img/backpack.jpeg){height="300px"}
+::: {layout-ncol="3"}
+![Backpacking](img/backpack.jpeg){width="300"}
 
-![Kayaking](img/river.jpeg)
+![Kayaking](img/river.jpeg){width="300"}
 
-![Rock Climbing](img/rock.jpeg)
+![Rock Climbing](img/rock.jpeg){width="300"}
 
 A few choice activities
 :::
 
-
-
 ### Travel
-
 
 ::: columns
 ::: {.column width="100%"}
 There is so much diversity of perspectives and cultures in the world. It would be a shame to not appreciate all the world has to offer.
 :::
-
 :::
-::: {#fig-outdoors layout-ncol=2}
 
-![San Xavier Mission](img/mission.jpeg){height="300px"}
+::: {layout-ncol="2"}
+![San Xavier Mission](img/mission.jpeg){width="300"}
 
-![Old San Juan](img/street.jpeg){height="300px"}
+![Old San Juan](img/street.jpeg){width="300"}
 
 People and Places
 :::
-
 
 ### Life Partner
 
 ::: columns
 ::: {.column width="100%"}
-I am lucky to have stumbled into the life of Lauren Thompson, an accomplished biostatistician who works with fortifying staple foods with nutrients to help alleviate global malnutrition.
+I am lucky to have stumbled into the life of Lauren Thompson, an accomplished biostatistician who works with fortifying staple foods to help alleviate global malnutrition.
+:::
 :::
 
+::: {layout-ncol="3"}
+![Big Sur and Big Cheese](img/beach.jpeg){width="300"}
 
-:::
-::: {#fig-outdoors layout-ncol=3}
-
-![Big Sur and Big Cheese](img/beach.jpeg){height="300px"}
-
-![These are a few of my favorite things](img/seakayak.jpeg){height="300px"}
+![These are a few of my favorite things](img/seakayak.jpeg){width="300"}
 
 ![The hills are alive](img/montana.jpeg){height="300px"}
 
 The one, the only, Lauren Thompson.
 :::
-
