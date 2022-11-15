@@ -14,7 +14,7 @@ Science does not occur in a vacuum. I have had the opportunity to collaborate an
 
 ::: columns
 ::: {.column width="60%"}
-Part of my passion project for my dissertation is to come up with new techniques that can be adopted in cropping systems to increase the efficiency of production. This led me to design and develop a virus bioreporter in plants that can signal a broad range of viruses to technicians. The proof of concept is currently being developed in *A. thaliana* with funding from the NSF by way of the Center for Research on Programmable Plants Systems (CROPPS).
+Part of my passion for science is to come up with new techniques that can be adopted in cropping systems to increase the efficiency of production. This led me to design and develop a virus bioreporter in plants that can signal virus infection to technicians. The proof of concept is currently being developed in *A. thaliana* with funding from the NSF by way of the Center for Research on Programmable Plants Systems (CROPPS).
 
 ![GFP tagged nuclei in root](img/gfp_root.png){width="300"}
 
@@ -30,7 +30,7 @@ Viruses can't be treated with agrochemicals because they carry out their process
 
 ![Cas12a vector targeting CLCuD](img/untitled.png){width="300"}
 
-These strategies, however, put a strong selective pressure on virus populations, which evolve to break these transgenic resistances. This resistance breaking can happen within 3 years, and can negate all of the hard work that went in to engineering plants to be resitant to the viruses. In light of this, I am working on two concepts that will use techniques of synthetic regulatory networks in plants to build new, robust, transgenic resistance in plants.
+These strategies, however, put a strong selective pressure on virus populations, which evolve to break these transgenic resistances. This resistance breaking can happen within 3 years, and can negate all of the hard work that went in to engineering plants to be resitant to viruses. In light of this, I am working on two concepts that will use techniques of synthetic regulatory networks in plants to build new, robust, transgenic resistance in plants.
 :::
 :::
 
@@ -38,6 +38,7 @@ These strategies, however, put a strong selective pressure on virus populations,
 
 ::: columns 
 ::: {.column width="60%"}
+
 As researchers, breeders, and farmers try to introduce new resistant plant cultivars, plant viral populations and communities can shift in the new environment of resistance. This selection can have a signature in virus communities that can be detected. I have been working on developing automated pipelines as part of a high-throughput surveillance tool that can help aid breeders and researchers in how virus communities and populations are shifting in the environment. Check out the repo for the tool I developed here: [ViCAT](https://github.com/coryVkeith/ViCAT_dev)!
 
 ![Community compositions of CLCuD in Pakistan](img/NMDS_map.png){width="584"}
@@ -64,7 +65,7 @@ Gene/Genome editing/engineering: Cas9 and Cas12a, transposon mutagenesis, T-DNA 
 
 Sequencing: Sanger, Nanopore, and Illumina
 
-Synthetic biology: Desgin gene regulatory networks, amiRNA design, design of RNAi for disease resistance, Cas9 and Cas12a plant virus resistance, GFP tagging
+Synthetic biology: Design gene regulatory networks, amiRNA design, design of RNAi for disease resistance, Cas9 and Cas12a plant virus resistance, 
 
 Microscopy: Widefield, fluorescence, and confocal
 :::
@@ -84,10 +85,14 @@ Multiple sequence alignment software: MEGA, CD-HIT, MAUVE, MAFFT, MEGAN, SDT, CL
 
 Phylogenetics: RaXML, PHYLIP, BEAST, Mr. Bayes, MEGA, Geneious, and PhyML
 
-Sequence identification and annotation: BLAST, ORF finder, Geneious
+Sequence identification and annotation: BLAST, NCBI ORF finder, Geneious
 
 Community Ecology: Phyloseq, Qiime
 
-Other relevant skills: Docker containers and singularity, large data management, automation of pipelines and processes, protocols.io, dedication to reproducibility and open science
+Version control/reproducible science: GitHub, protocols.io, Jupyter notebooks, R-studio, Anaconda, Docker containers and singularity
+
+Other relevant skills/tools: Container orchestration with kubernetes, large data management, and automation of pipelines and processes
+
+
 :::
 :::

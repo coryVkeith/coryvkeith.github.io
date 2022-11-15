@@ -17,6 +17,8 @@ website:
         text: "Personal Interests"
       - href: research.qmd
         text: "Research"
+  resources:
+      - Cname: "coryvkeith.com""
 
 format:
   html:
